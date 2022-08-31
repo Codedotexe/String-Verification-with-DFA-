@@ -8,6 +8,9 @@ Create the DFA which for the given words and write the output to a file
 Render the graphviz file as svg (the dot renderer achieves the best results)
 `dot -Tsvg -o graph.svg graph.dot`
 
+Or as png
+`dot -Tpng -Gdpi=300 -o graph.png graph.dot`
+
 ## Usage
 ```plaintext
 usage: main.py [-h] [-o OUTPUT] word [word ...]
