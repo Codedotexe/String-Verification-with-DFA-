@@ -2,7 +2,7 @@
 
 This is a small script that creates a DFA that verifies a list of given words. The script outputs a graphviz `.dot` file either to stdout or to a file. To render to the `.dot` file use the graphviz renderers.
 
-Create the DFA which for the given words and write the output to a file, for example:
+#### Create the DFA which for the given words and write the output to a file, for example:
 ```plaintext
 python3 main.py algea coal cake coala -o graph.dot
 ```
