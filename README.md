@@ -26,3 +26,5 @@ options:
   -h, --help  show this help message and exit
   -o OUTPUT
 ```
+
+![graph](https://user-images.githubusercontent.com/36423219/187791405-537c77fc-9d9c-4025-95e5-36ee021579f9.png)
